@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "1234",
+  "db": "mongodb+srv://frostyfeet:catzilla228@sandbox.cta6r.mongodb.net/films?retryWrites=true&w=majority"
+}
